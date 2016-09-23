@@ -52,5 +52,3 @@ def solve_cypher (phrase, key=3)
 	end
 	return result
 end
-
-print solve_cypher("ae  i  ou")
